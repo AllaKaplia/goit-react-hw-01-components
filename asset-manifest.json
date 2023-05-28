@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/parcel-project-template/static/css/main.97b56a8a.css",
-    "main.js": "/parcel-project-template/static/js/main.9fcc4587.js",
+    "main.css": "/parcel-project-template/static/css/main.b0da2ea5.css",
+    "main.js": "/parcel-project-template/static/js/main.cf43ee9a.js",
     "index.html": "/parcel-project-template/index.html",
-    "main.97b56a8a.css.map": "/parcel-project-template/static/css/main.97b56a8a.css.map",
-    "main.9fcc4587.js.map": "/parcel-project-template/static/js/main.9fcc4587.js.map"
+    "main.b0da2ea5.css.map": "/parcel-project-template/static/css/main.b0da2ea5.css.map",
+    "main.cf43ee9a.js.map": "/parcel-project-template/static/js/main.cf43ee9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.97b56a8a.css",
-    "static/js/main.9fcc4587.js"
+    "static/css/main.b0da2ea5.css",
+    "static/js/main.cf43ee9a.js"
   ]
 }
