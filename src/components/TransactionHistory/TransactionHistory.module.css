@@ -1,0 +1,41 @@
+.transaction {
+   margin: 0 auto;
+   width: 800px;
+   border-collapse: collapse;
+}
+
+.thead {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    background-color: aqua;
+    /* border-bottom: 1px solid #ddd; */
+}
+
+.tr {
+    border-bottom: 1px solid #ddd;
+}
+
+.titles {
+    padding: 15px;
+    border: 1px solid black;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.18;
+    color: rgb(115, 115, 113);
+}
+
+.td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.data {
+    padding: 15px;
+    border: 1px solid black;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.18;
+    text-align: center;
+    color: rgb(11, 11, 11);
+}
