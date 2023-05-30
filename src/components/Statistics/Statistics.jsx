@@ -11,7 +11,7 @@ export const Statistics = ({ title, data }) => {
     return (
       <div className={css.box}>
         {title && <h2 className={css.title}>{title}</h2>}
-        <ul className={css.statList} stats={data}>
+        <ul className={css.statList}>
             {data.map(({ id, label, percentage }) => (
                 <li key={id} className={css.item} style={{ backgroundColor: getRandomHexColor() }} >
                 <span className={css.label}>{label}</span>
