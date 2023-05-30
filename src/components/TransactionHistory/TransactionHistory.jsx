@@ -11,7 +11,7 @@ export const TransactionHistory = ({transactions}) => {
               <th className={css.titles}>Currency</th>
             </tr>
           </thead>
-          <tbody items={transactions}>
+          <tbody>
             {transactions.map(({ id, type, amount, currency }) => (
             <tr key={id} className={css.data}>
               <td className={css.td}>{type}</td>
